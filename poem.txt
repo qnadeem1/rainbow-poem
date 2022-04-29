@@ -3,4 +3,5 @@ green
 yellow
 red
 violet
-black
+purple
+pink
