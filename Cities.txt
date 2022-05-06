@@ -3,3 +3,5 @@ New Jersey
 Washington DC
 Miami
 San Francisco
+Atlanta
+LA
